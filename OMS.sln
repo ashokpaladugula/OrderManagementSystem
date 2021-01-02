@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagementSystem", "OrderManagementSystem\OrderManagementSystem.csproj", "{1584E11F-49A4-41E9-87A7-7D7C016702DF}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "OrderManagementDatabase", "OrderManagementDatabase\OrderManagementDatabase.sqlproj", "{6E111EA1-160E-4613-A9C9-CBE3A7E4B361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1584E11F-49A4-41E9-87A7-7D7C016702DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1584E11F-49A4-41E9-87A7-7D7C016702DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1584E11F-49A4-41E9-87A7-7D7C016702DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1584E11F-49A4-41E9-87A7-7D7C016702DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E111EA1-160E-4613-A9C9-CBE3A7E4B361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E111EA1-160E-4613-A9C9-CBE3A7E4B361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E111EA1-160E-4613-A9C9-CBE3A7E4B361}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6E111EA1-160E-4613-A9C9-CBE3A7E4B361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E111EA1-160E-4613-A9C9-CBE3A7E4B361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E111EA1-160E-4613-A9C9-CBE3A7E4B361}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45891F9E-F7B8-4E0A-A40D-7412DC46E1C4}
+	EndGlobalSection
+EndGlobal
